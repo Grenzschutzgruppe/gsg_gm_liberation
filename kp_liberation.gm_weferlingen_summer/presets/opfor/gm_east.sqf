@@ -68,7 +68,7 @@ opfor_vehicles = [
 	"gm_gc_army_zsu234v1_oli",										//ZSU-23-4V1 
 	"gm_gc_army_t55a_oli",											//T-55A
 	"gm_gc_army_t55a_oli",											//T-55A
-	"gm_gc_army_t55a_oli",											//T-55A
+	"gm_gc_army_t55a_oli"											//T-55A
 ];
 
 // All enemy vehicles that can spawn as sector defenders and patrols but at a lower enemy combat readiness (aggression levels).
@@ -95,7 +95,7 @@ opfor_battlegroup_vehicles = [
 	"gm_gc_army_t55a_oli",											//T-55A
 	"gm_gc_army_t55a_oli",											//T-55A
 	"gm_gc_army_t55a_oli",											//T-55A
-	"gm_gc_army_t55a_oli",											//T-55A
+	"gm_gc_army_t55a_oli"											//T-55A
 ];
 
 // All enemy vehicles that can spawn as battlegroups, either assaulting or as reinforcements, at lower enemy combat readiness (aggression levels).
@@ -105,7 +105,7 @@ opfor_battlegroup_vehicles_low_intensity = [
 	"gm_gc_army_ural4320_cargo_oli",									//Ural Transport Truck
 	"gm_gc_army_btr60pb_oli",										//BTR-60
 	"gm_gc_army_bmp1sp2_oli",										//BMP-1 SP-2
-	"gm_gc_army_zsu234v1_oli",										//ZSU-23-4V1 
+	"gm_gc_army_zsu234v1_oli"										//ZSU-23-4V1 
 ];
 
 /* All vehicles that spawn within battlegroups (see the above 2 arrays) and also hold 8 soldiers as passengers.
@@ -114,7 +114,7 @@ opfor_troup_transports = [
 	"gm_gc_army_ural4320_cargo_oli",									//Ural Transport Truck
 	"gm_gc_army_ural4320_cargo_oli",									//Ural Transport Truck
 	"gm_gc_army_bmp1sp2_oli",										//BMP-1 SP-2
-	"gm_gc_army_btr60pb_oli",										//BTR-60
+	"gm_gc_army_btr60pb_oli"										//BTR-60
 ];
 
 // Enemy rotary-wings that will need to spawn in flight.
