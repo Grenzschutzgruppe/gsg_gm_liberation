@@ -118,5 +118,5 @@ KP_liberation_cr_ign_buildings = [
     "land_gm_wall_castle_01_gate_01",
     "land_gm_wall_castle_01_stairs_01",
     "land_gm_wall_castle_01_tower_01",
-    "land_gm_wall_castle_01_wall_01",
+    "land_gm_wall_castle_01_wall_01"
 ];
