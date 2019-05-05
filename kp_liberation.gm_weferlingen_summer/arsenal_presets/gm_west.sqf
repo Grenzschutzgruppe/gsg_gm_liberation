@@ -255,8 +255,7 @@ GRLIB_arsenal_items = [
 	"ACE_SpraypaintBlack",
 	"ACE_DeadManSwitch",
 	"ACE_tourniquet",
-	"ACE_quikclot",
-	
+	"ACE_quikclot"
 ];
 
 GRLIB_arsenal_backpacks = [
