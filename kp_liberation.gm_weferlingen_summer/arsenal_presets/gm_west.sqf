@@ -33,7 +33,7 @@ GRLIB_arsenal_weapons = [
 
 GRLIB_arsenal_magazines = [
 	// G3A3 + G3A4
-	"gm_20Rnd_762x51mm_b_t_dm21_g3_blk",
+	"gm_20Rnd_762x51mm_B_T_DM21_g3_blk",
 	"gm_20Rnd_762x51mm_b_t_dm21a1_g3_blk",
 	"gm_20Rnd_762x51mm_b_t_dm21a2_g3_blk",
 	"gm_20Rnd_762x51mm_b_dm111_g3_blk",
@@ -203,9 +203,8 @@ GRLIB_arsenal_items = [
 	"gm_repairkit_01",
 	"gm_ferod16_oli",
 	"gm_watch_kosei_80",
-	"item_map",
-	"item_compass",
-	"item_gps",
+	"ItemMap",
+	"ItemCompass",
 	
 	// Ace
 	"ACE_adenosine",
