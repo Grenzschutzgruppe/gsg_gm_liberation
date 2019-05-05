@@ -85,7 +85,7 @@ KP_liberation_cr_ign_buildings = [
     "land_gm_fence_garden_13_300_02",
     "land_gm_fence_garden_13_300_03",
     "land_gm_fence_garden_13_300_04",
-    "land_gm_fence_garden_13_post"
+    "land_gm_fence_garden_13_post",
     "land_gm_fence_garden_15_400",
     "land_gm_fence_railing_01_200",
     "land_gm_fence_railing_02_200",
