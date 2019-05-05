@@ -46,7 +46,7 @@ GRLIB_arsenal_magazines = [
 	"gm_20Rnd_762x51mm_B_DM41_g3_des",
 	"gm_20Rnd_762x51mm_AP_DM151_g3_des",
 
-	"gm_1Rnd_67mm_heat_dm22a1_g3",
+	"gm_1rnd_67mm_heat_dm22a1_g3",
 
 	// MG3 7.62x51 mm
 	"gm_120Rnd_762x51mm_B_T_DM21_mg3_grn",
