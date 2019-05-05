@@ -4,6 +4,10 @@ CONFIG FILE FOR KP LIBERATION
 
 // Vehicle classnames which also function as ACE medical vehicles.
 KP_liberation_medical_vehicles = [
+	"gm_gc_bgs_ural375d_medic",
+	"gm_gc_army_ural375d_medic",
+	"gm_ge_army_u1300l_medic",
+	"gm_ge_army_m113a1g_medic",
 	"B_Truck_01_medical_F",
 	"B_T_Truck_01_medical_F",
 	"rhsusf_M1085A1P2_B_D_Medical_fmtv_usarmy",
@@ -490,6 +494,11 @@ ai_resupply_sources = [
 
 // Everything that can resupply other vehicles.
 vehicle_repair_sources = [
+	"gm_ge_army_bpz2a0",
+	"gm_ge_army_u1300l_repair",
+	"gm_dk_army_bpz2a0",
+	"gm_gc_army_ural4320_repair",
+	"gm_gc_bgs_ural4320_repair",
 	"C_Offroad_01_repair_F",
 	"B_Truck_01_Repair_F",
 	"B_T_Truck_01_Repair_F",
@@ -508,6 +517,9 @@ vehicle_repair_sources = [
 ];
 
 vehicle_rearm_sources = [
+	"gm_gc_army_ural4320_reammo",
+	"gm_gc_bgs_ural4320_reammo",
+	"gm_ge_army_kat1_451_reammo",
 	"B_Truck_01_ammo_F",
 	"B_T_Truck_01_ammo_F",
 	"B_Slingload_01_Ammo_F",
@@ -525,6 +537,9 @@ vehicle_rearm_sources = [
 ];
 
 vehicle_refuel_sources = [
+	"gm_gc_army_ural375d_refuel",
+	"gm_gc_bgs_ural375d_refuel",
+	"gm_ge_army_kat1_451_refuel",
 	"C_Van_01_fuel_F",
 	"C_Truck_02_fuel_F",
 	"B_Truck_01_fuel_F",
