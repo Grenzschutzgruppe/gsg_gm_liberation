@@ -34,30 +34,34 @@ GRLIB_arsenal_weapons = [
 GRLIB_arsenal_magazines = [
 	// G3A3 + G3A4
 	"gm_20Rnd_762x51mm_B_T_DM21_g3_blk",
-	"gm_20Rnd_762x51mm_b_t_dm21a1_g3_blk",
-	"gm_20Rnd_762x51mm_b_t_dm21a2_g3_blk",
-	"gm_20Rnd_762x51mm_b_dm111_g3_blk",
-	"gm_20Rnd_762x51mm_b_dm41_g3_blk",
-	"gm_20Rnd_762x51mm_ap_dm151_g3_blk",
-	"gm_20Rnd_762x51mm_b_t_dm21_g3_des",
-	"gm_20Rnd_762x51mm_b_t_dm21a1_g3_des",
-	"gm_20Rnd_762x51mm_b_t_dm21a2_g3_des",
-	"gm_20Rnd_762x51mm_b_dm111_g3_des",
-	"gm_20Rnd_762x51mm_b_dm41_g3_des",
-	"gm_20Rnd_762x51mm_ap_dm151_g3_des",
+	"gm_20Rnd_762x51mm_B_T_DM21a1_g3_blk",
+	"gm_20Rnd_762x51mm_B_T_DM21a2_g3_blk",
+	"gm_20Rnd_762x51mm_B_DM111_g3_blk",
+	"gm_20Rnd_762x51mm_B_DM41_g3_blk",
+	"gm_20Rnd_762x51mm_AP_DM151_g3_blk",
+	"gm_20Rnd_762x51mm_B_T_DM21_g3_des",
+	"gm_20Rnd_762x51mm_B_T_DM21a1_g3_des",
+	"gm_20Rnd_762x51mm_B_T_DM21a2_g3_des",
+	"gm_20Rnd_762x51mm_B_DM111_g3_des",
+	"gm_20Rnd_762x51mm_B_DM41_g3_des",
+	"gm_20Rnd_762x51mm_AP_DM151_g3_des",
 
-	"gm_1Rnd_67mm_heat_dm22a1_g3",
+	"gm_1Rnd_67mm_heat_DM22a1_g3",
 
 	// MG3 7.62x51 mm
-	"gm_120rnd_762x51mm_b_t_dm21_mg3_grn",
-	"gm_120rnd_762x51mm_b_t_dm21a1_mg3_grn",
-	"gm_120rnd_762x51mm_b_t_dm21a2_mg3_grn",
+	"gm_120Rnd_762x51mm_B_T_DM21_mg3_grn",
+	"gm_120Rnd_762x51mm_B_T_DM21A1_mg3_grn",
+	"gm_120Rnd_762x51mm_B_T_DM21A2_mg3_grn",
 
 	// MP2A1 9x19 mm
-	"gm_mp2a1_blk",
+	"gm_32Rnd_9x19mm_B_DM51_mp2_blk",
+	"gm_32Rnd_9x19mm_B_DM11_mp2_blk",
 
 	// P1 9x19 mm
-	"gm_p1_blk",
+	"gm_32Rnd_9x19mm_B_DM51_mp2_blk",
+	"gm_32Rnd_9x19mm_B_DM11_mp2_blk",
+	"gm_8Rnd_9x19mm_B_DM11_p1_blk",
+	"gm_8Rnd_9x19mm_B_DM51_p1_blk",	
 
 	// P2A1 26.5 mm
 	"gm_1Rnd_265mm_flare_single_wht_gc",
@@ -82,14 +86,14 @@ GRLIB_arsenal_magazines = [
 	"gm_1Rnd_265mm_flare_multi_nbc_DM47",
 
 	// PzF44-2
-	"gm_1rnd_44x537mm_heat_dm32_pzf44_2",
+	"gm_1Rnd_44x537mm_heat_dm32_pzf44_2",
 
 	// PzF84
-	"gm_1rnd_84x245mm_heat_t_dm12_carlgustaf",
-	"gm_1rnd_84x245mm_heat_t_dm12a1_carlgustaf",
-	"gm_1rnd_84x245mm_heat_t_dm22_carlgustaf",
-	"gm_1rnd_84x245mm_heat_t_dm32_carlgustaf",
-	"gm_1rnd_84x245mm_illum_dm16_carlgustaf",
+	"gm_1Rnd_84x245mm_heat_t_DM12_carlgustaf",
+	"gm_1Rnd_84x245mm_heat_t_DM12a1_carlgustaf",
+	"gm_1Rnd_84x245mm_heat_t_DM22_carlgustaf",
+	"gm_1Rnd_84x245mm_heat_t_DM32_carlgustaf",
+	"gm_1Rnd_84x245mm_illum_DM16_carlgustaf",
 
 	// Grenades
 	"gm_handgrenade_frag_dm51",
@@ -205,6 +209,8 @@ GRLIB_arsenal_items = [
 	"gm_watch_kosei_80",
 	"ItemMap",
 	"ItemCompass",
+	"ItemRadio",
+	"ItemWatch",
 	
 	// Ace
 	"ACE_adenosine",
