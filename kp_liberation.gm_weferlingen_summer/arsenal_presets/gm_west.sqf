@@ -33,20 +33,20 @@ GRLIB_arsenal_weapons = [
 
 GRLIB_arsenal_magazines = [
 	// G3A3 + G3A4
-	"gm_20rnd_762x51mm_b_t_dm21_g3_blk",
-	"gm_20rnd_762x51mm_b_t_dm21a1_g3_blk",
-	"gm_20rnd_762x51mm_b_t_dm21a2_g3_blk",
-	"gm_20rnd_762x51mm_b_dm111_g3_blk",
-	"gm_20rnd_762x51mm_b_dm41_g3_blk",
-	"gm_20rnd_762x51mm_ap_dm151_g3_blk",
-	"gm_20rnd_762x51mm_b_t_dm21_g3_des",
-	"gm_20rnd_762x51mm_b_t_dm21a1_g3_des",
-	"gm_20rnd_762x51mm_b_t_dm21a2_g3_des",
-	"gm_20rnd_762x51mm_b_dm111_g3_des",
-	"gm_20rnd_762x51mm_b_dm41_g3_des",
-	"gm_20rnd_762x51mm_ap_dm151_g3_des",
+	"gm_20Rnd_762x51mm_b_t_dm21_g3_blk",
+	"gm_20Rnd_762x51mm_b_t_dm21a1_g3_blk",
+	"gm_20Rnd_762x51mm_b_t_dm21a2_g3_blk",
+	"gm_20Rnd_762x51mm_b_dm111_g3_blk",
+	"gm_20Rnd_762x51mm_b_dm41_g3_blk",
+	"gm_20Rnd_762x51mm_ap_dm151_g3_blk",
+	"gm_20Rnd_762x51mm_b_t_dm21_g3_des",
+	"gm_20Rnd_762x51mm_b_t_dm21a1_g3_des",
+	"gm_20Rnd_762x51mm_b_t_dm21a2_g3_des",
+	"gm_20Rnd_762x51mm_b_dm111_g3_des",
+	"gm_20Rnd_762x51mm_b_dm41_g3_des",
+	"gm_20Rnd_762x51mm_ap_dm151_g3_des",
 
-	"gm_1rnd_67mm_heat_dm22a1_g3",
+	"gm_1Rnd_67mm_heat_dm22a1_g3",
 
 	// MG3 7.62x51 mm
 	"gm_120rnd_762x51mm_b_t_dm21_mg3_grn",
