@@ -55,8 +55,9 @@ KP_liberation_preset_blufor = 9;
 4 = Project OPFOR (Islamic State)
 5 = Project OPFOR (Sahrani)
 6 = AAF
-7 = NATO */
-KP_liberation_preset_opfor = 0;
+7 = NATO 
+8 = Germany East (Global Mobilization)*/
+KP_liberation_preset_opfor = 8;
 
 /* Resistance preset:
 0 = Custom (default vanilla FIA)
@@ -70,8 +71,9 @@ KP_liberation_preset_resistance = 0;
 0 = Custom (default vanilla)
 1 = Apex Tanoa (apex vanilla)
 2 = Project OPFOR (Middle Eastern)
-3 = RDS Civilians */
-KP_liberation_preset_civilians = 0;
+3 = RDS Civilians 
+4 = Germany in the 80s LuL */
+KP_liberation_preset_civilians = 4;
 
 /* Which arsenal preset should be used?
 0 = Use the default blacklist method (defined below).

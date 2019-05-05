@@ -22,6 +22,7 @@ switch (KP_liberation_preset_opfor) do {
 	case 5: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\SLA.sqf";};
 	case 6: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\aaf.sqf";};
 	case 7: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\nato.sqf";};
+	case 8: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\gm_east.sqf";};
 	default {[] call compileFinal preprocessFileLineNumbers "presets\opfor\custom.sqf";};
 };
 
@@ -37,6 +38,7 @@ switch (KP_liberation_preset_civilians) do {
 	case 1: {[] call compileFinal preprocessFileLineNumbers "presets\civilians\apex.sqf";};
 	case 2: {[] call compileFinal preprocessFileLineNumbers "presets\civilians\middle_eastern.sqf";};
 	case 3: {[] call compileFinal preprocessFileLineNumbers "presets\civilians\RDSCiv.sqf";};
+	case 3: {[] call compileFinal preprocessFileLineNumbers "presets\civilians\german_80.sqf";};
 	default {[] call compileFinal preprocessFileLineNumbers "presets\civilians\custom.sqf";};
 };
 
