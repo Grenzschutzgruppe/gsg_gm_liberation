@@ -93,7 +93,7 @@ GRLIB_arsenal_magazines = [
 	"gm_1Rnd_84x245mm_heat_t_DM12a1_carlgustaf",
 	"gm_1Rnd_84x245mm_heat_t_DM22_carlgustaf",
 	"gm_1Rnd_84x245mm_heat_t_DM32_carlgustaf",
-	"gm_1Rnd_84x245mm_illum_DM16_carlgustaf",
+	"gm_1Rnd_84x245mm_ILLUM_DM16_carlgustaf",
 
 	// Grenades
 	"gm_handgrenade_frag_dm51",
