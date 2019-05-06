@@ -192,6 +192,13 @@ GRLIB_arsenal_items = [
 
 	// Facewear
 	"gm_ge_facewear_m65",
+	"G_Bandanna_oli",
+	"G_Bandanna_blk",
+	"G_Bandanna_beast",
+	"G_Aviator",
+	"G_Spectacles",
+	"G_Spectacles_Tinted",
+	"G_Balaclava_blk",
 
 	// Attachments
 	"gm_feroz24_blk",
@@ -211,6 +218,7 @@ GRLIB_arsenal_items = [
 	"ItemCompass",
 	"ItemRadio",
 	"ItemWatch",
+	"Binocular",
 	
 	// Ace
 	"ACE_adenosine",
@@ -268,5 +276,9 @@ GRLIB_arsenal_backpacks = [
 	"gm_ge_backpack_satchel_80_blk",
 	"gm_ge_backpack_satchel_80_san",
 	"gm_dk_army_backpack_73_oli",
-	"gm_milan_launcher_weaponBag"
+	"gm_milan_launcher_weaponBag",
+	"B_FieldPack_oli",
+	"B_Carryall_oli"
+	"B_Kitbag_sgg",
+	"B_TacticalPack_oli"
 ];
