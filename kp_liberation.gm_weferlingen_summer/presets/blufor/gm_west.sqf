@@ -12,7 +12,7 @@ Optional Mods:
 /* - Support classnames.
 Each of these should be unique, the same classnames for different purposes may cause various unpredictable issues with player actions. Or not, just don't try!	*/
 FOB_typename = "land_gm_euro_dest_01";							// This is the main FOB HQ building. 																									Default is "Land_Cargo_HQ_V1_F".
-FOB_box_typename = "gm_ge_army_shelteraceI_command";					// This is the FOB as a container. 																										Default is "B_Slingload_01_Cargo_F".
+FOB_box_typename = "Land_RepairDepot_01_green_F";					// This is the FOB as a container. 																										Default is "B_Slingload_01_Cargo_F".
 FOB_truck_typename = "gm_ge_army_bpz2a0";								// This is the FOB as a vehicle.																										Default is "B_Truck_01_box_F".
 Arsenal_typename = "B_supplyCrate_F";									// This is the virtual arsenal as portable supply crates.																				Default is "B_supplyCrate_F".
 Respawn_truck_typename = "gm_ge_army_u1300l_medic";						// This is the mobile respawn (and medical) truck. 																						Default is "B_Truck_01_medical_F".
