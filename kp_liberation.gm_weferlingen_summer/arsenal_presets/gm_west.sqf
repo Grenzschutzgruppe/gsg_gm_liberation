@@ -278,7 +278,7 @@ GRLIB_arsenal_backpacks = [
 	"gm_dk_army_backpack_73_oli",
 	"gm_milan_launcher_weaponBag",
 	"B_FieldPack_oli",
-	"B_Carryall_oli"
+	"B_Carryall_oli",
 	"B_Kitbag_sgg",
 	"B_TacticalPack_oli"
 ];
