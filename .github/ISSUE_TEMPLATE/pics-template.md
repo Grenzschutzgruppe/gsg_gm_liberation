@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Was **
+**Was**
 
 **Wofür**
 
