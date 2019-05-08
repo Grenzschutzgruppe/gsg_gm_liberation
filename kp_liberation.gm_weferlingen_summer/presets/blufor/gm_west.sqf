@@ -55,6 +55,8 @@ light_vehicles = [
 	["gm_ge_army_iltis_milan",100,60,50],								//Truck 0.5t MILAN
 	["gm_ge_army_u1300l_cargo",125,30,75],								//Truck 2t Transport
 	["gm_ge_army_kat1_451_cargo",145,30,75],							//Truck 5t Transport
+	["gm_ge_army_kat1_454_cargo",250,50,100],							//Truck 10t Transport
+	["gm_ge_army_kat1_451_container",200,30,75],							//Truck 5t Transport
 	["gm_ge_army_u1300l_container",100,30,50],							//Truck 2t Flatbed
 	["B_Boat_Transport_01_F",100,0,25]									//Assault Boat
 ];
@@ -179,10 +181,7 @@ support_vehicles = [
 	["ACE_Track",10,0,0],
 	["gm_ge_army_u1300l_repair",325,30,75],								//Truck 2t repair
 	["gm_ge_army_kat1_451_refuel",125,0,275],							//Truck 5t fuel
-	["gm_ge_army_kat1_451_reammo",125,200,75],							//Truck 5t ammo
-	["B_Slingload_01_Repair_F",275,0,0],								//Huron Repair
-	["B_Slingload_01_Fuel_F",75,0,200],									//Huron Fuel
-	["B_Slingload_01_Ammo_F",75,200,0]									//Huron Ammo
+	["gm_ge_army_kat1_451_reammo",125,200,75]							//Truck 5t ammo
 ];
 
 // Pre-made squads for the commander build menu. These shouldn't exceed 10 members.
