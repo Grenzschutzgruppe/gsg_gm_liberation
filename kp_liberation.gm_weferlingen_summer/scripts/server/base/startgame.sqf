@@ -32,6 +32,9 @@ if (count GRLIB_all_fobs == 0) then {
 
 			_fobbox call F_setFobMass;
 
+			// Add ViV actions to FOB Box
+			[_fobBox] remoteExecCall ["F_setLoadableViV", 0, _fobBox];
+
 			sleep 3;
 
 			waitUntil {

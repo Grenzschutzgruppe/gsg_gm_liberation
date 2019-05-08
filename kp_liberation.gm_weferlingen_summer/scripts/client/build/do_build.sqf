@@ -336,6 +336,11 @@ while { true } do {
 					case KP_liberation_large_storage_building: {_vehicle setVariable ["KP_liberation_storage_type", 0, true];};
 					default {};
 				};
+				
+				if (_classname == FOB_box_typename) then {
+					// Add ViV actions to FOB Box
+					[_vehicle] remoteExecCall ["F_setLoadableViV", 0, _vehicle];
+				};
 
 				if (_classname in KP_liberation_medical_vehicles) then {
 					_vehicle setVariable ["ace_medical_medicClass", 1, true];
